@@ -1,4 +1,4 @@
-const BASE_URL = 'http://localhost:8000';
+const BASE_URL = 'http://evotingreact.betechdeveloper.com/admin/public';
 const URL_API =  BASE_URL +  '/api/';
 
 export {
