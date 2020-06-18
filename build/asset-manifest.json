@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/larareact-voting-front-end/static/css/main.001da12d.chunk.css",
+    "main.js": "/larareact-voting-front-end/static/js/main.6c1e5e30.chunk.js",
+    "main.js.map": "/larareact-voting-front-end/static/js/main.6c1e5e30.chunk.js.map",
+    "runtime-main.js": "/larareact-voting-front-end/static/js/runtime-main.00d18000.js",
+    "runtime-main.js.map": "/larareact-voting-front-end/static/js/runtime-main.00d18000.js.map",
+    "static/css/2.046e01ea.chunk.css": "/larareact-voting-front-end/static/css/2.046e01ea.chunk.css",
+    "static/js/2.d0dce331.chunk.js": "/larareact-voting-front-end/static/js/2.d0dce331.chunk.js",
+    "static/js/2.d0dce331.chunk.js.map": "/larareact-voting-front-end/static/js/2.d0dce331.chunk.js.map",
+    "index.html": "/larareact-voting-front-end/index.html",
+    "precache-manifest.5dc410123dea35f94816ac55d179d65d.js": "/larareact-voting-front-end/precache-manifest.5dc410123dea35f94816ac55d179d65d.js",
+    "service-worker.js": "/larareact-voting-front-end/service-worker.js",
+    "static/css/2.046e01ea.chunk.css.map": "/larareact-voting-front-end/static/css/2.046e01ea.chunk.css.map",
+    "static/css/main.001da12d.chunk.css.map": "/larareact-voting-front-end/static/css/main.001da12d.chunk.css.map",
+    "static/js/2.d0dce331.chunk.js.LICENSE.txt": "/larareact-voting-front-end/static/js/2.d0dce331.chunk.js.LICENSE.txt",
+    "static/media/avatar.jpeg": "/larareact-voting-front-end/static/media/avatar.f3f6c03a.jpeg",
+    "static/media/vote.svg": "/larareact-voting-front-end/static/media/vote.8db06df2.svg",
+    "static/media/waves.svg": "/larareact-voting-front-end/static/media/waves.e609e916.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.00d18000.js",
+    "static/css/2.046e01ea.chunk.css",
+    "static/js/2.d0dce331.chunk.js",
+    "static/css/main.001da12d.chunk.css",
+    "static/js/main.6c1e5e30.chunk.js"
+  ]
+}

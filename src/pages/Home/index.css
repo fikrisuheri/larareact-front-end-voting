@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Oswald&display=swap');
+
+.title {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 'bold';
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.subtitle {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 18px
+}
+
+.bg-biru {
+    background-color: #0099ff;
+}
+
+.titlename {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 'bold';
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+@media only screen and (max-width: 600px) {
+    .titlename {
+        margin-top: 15px;
+        font-size: 24px;
+    }
+}
